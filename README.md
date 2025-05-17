@@ -19,7 +19,7 @@ This is a simple **YouTube UI clone** built using ** HTML and CSS **. It replica
 
 Here’s a preview of the layout:
 
-![YouTube Clone Preview](Screenshot.png) <!-- Replace with the actual path to your screenshot -->
+![YouTube Clone Preview](Screenshot.png) 
 
 ## 📁 Project Structure
 
